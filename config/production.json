@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://baruch:1@devconnector-3claw.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret",
+    "githubClientId":"72fa5ee075fa38e1fce0",
+    "githubSecret":"42b75167ee961a13e7e66f1f110c09190cb466fc"
+}
