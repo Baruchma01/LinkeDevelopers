@@ -1,6 +1,6 @@
 {
-    "mongoURI":"mongodb+srv://username:password@devconnector-3claw.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecret",
+    "mongoURI":"",
+    "jwtSecret":"",
     "githubClientId":"",
     "githubSecret":""
 }
